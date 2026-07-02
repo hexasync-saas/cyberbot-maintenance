@@ -1,4 +1,4 @@
-# cyberbot-maintenance: Out-of-Memory Issue Resolution
+# Cyberbot-maintenance: Out-of-Memory Issue Resolution
 
 ## 1. Summary
 
